@@ -1,0 +1,32 @@
+.one{
+    position: relative;
+    background-color: #0F46C7;
+    width: 150px;
+    height: 150px;
+    left:38%;
+    top:38%;
+}
+.two{    position: relative;
+    background-color: #0F46C7;
+    width: 50px;
+    height: 150px;
+    left:50%;
+    top:50%;}
+.three{    position: relative;
+    background-color: #0F46C7;
+    width: 100px;
+    height: 120px;
+    left:-10%;
+    top:30%;}
+.four{   position: relative;
+    background-color: #0F46C7;
+    width: 120px;
+    height: 100px;}
+.five{
+    position: relative;
+    background-color: #0F46C7;
+    width: 100px;
+    height: 80px;
+    left:-20%;
+    top:70%;
+}
